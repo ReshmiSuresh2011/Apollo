@@ -4,6 +4,7 @@
 		"schema_privileges": [{
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS METADATA",
+		    			  		    			  "SELECT",
 		   ]
 		}]
 		
